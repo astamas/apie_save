@@ -1,0 +1,163 @@
+
+
+body {
+    background: #2F3645;
+    font-family: ubuntu;
+    
+}
+
+h1 {
+    text-align: center;
+    color: #EEEDEB;
+    font-size: 40px;
+    
+    
+
+}
+h2 {
+    text-align: center;
+    color: #939185
+}
+
+h2:hover{
+    background: #2F3645;
+    color: #E6B9A6;
+    cursor:cell;
+
+}
+
+li{
+    
+    background-color: #EEEDEB;
+    list-style: none;
+    color: #2F3645;
+    font-size: 15px;
+    text-align: justify;
+    margin-left: 20px;
+    width: 450px;
+    letter-spacing: 4px;
+    line-height: 50px;
+    border-radius: 20px 8%;
+    
+    
+}
+
+li:hover{
+    background: #2F3645;
+    color: #E6B9A6;
+    cursor: pointer;
+
+
+}
+   
+
+
+p{
+
+        font-size: 14px;
+        letter-spacing: 2px;
+        font-weight: bolder;
+        text-align: justify;
+        border: 0px solid #2F3645;
+        padding: 20px;
+        margin: 10px;
+        width: 350px;
+        
+    
+    background-color: #939185;
+    background-image: url("autumn\ vilnius.jfif");
+    color: #EEEDEB;
+   
+    
+    background-size: cover;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: right;
+    
+    border-radius: 4px 20%;
+   
+}
+
+p:hover{
+    background: #2F3645;
+    color: #E6B9A6;
+    background-image: url("vilniusautumn2.jpg");
+    background-size: cover;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: right;
+    
+    border-radius: 4px 20%;
+}
+
+div{
+    font-size: 14px;
+        letter-spacing: 2px;
+        font-weight: bolder;
+        text-align: right;
+        border: 0px solid #2F3645;
+        padding: 20px;
+        margin: 10px;
+        width: 350px;
+        
+    
+    background-color: #939185;
+    background-image: url("img6.jpg");
+    color: #EEEDEB;
+
+   
+    
+
+   
+    background-size: 200px;
+    background-repeat: no-repeat;
+    background-position: left;
+    
+    border-radius: 4px 20%;
+   
+}
+
+div:hover{
+
+    background: #2F3645;
+    color: #E6B9A6;
+    font-size: 14px;
+        letter-spacing: 2px;
+        font-weight: bolder;
+        text-align: right;
+        border: 0px solid  #E6B9A6;
+        padding: 20px;
+        margin: 10px;
+        width: 350px;
+        
+    
+    background-color: #2F3645;
+    background-image: url("haiku4.jpg");
+
+   
+    
+
+   
+    background-size: 200px;
+    background-repeat: no-repeat;
+    background-position: left;
+    
+    border-radius: 4px 20%;
+   
+}
+
+h3{
+    text-align: center;
+    color: #EEEDEB;
+    font-size: 10px;
+    background: none;
+}
+
+h4{
+    color:#E6B9A6 ;
+}
+  
+
+
+    
+
